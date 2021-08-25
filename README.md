@@ -1,5 +1,5 @@
 # L01E03: Point input
-Vytvořte program `point_input.py`, který získá uživatelem zadaný bod v dvourozměrném prostoru (x, y souřadnice). Takto získané souřadnice umocní a vypíše výsledek.
+Vytvořte program `point_input.py`, který získá uživatelem zadaný bod v dvourozměrném prostoru (x, y souřadnice). Takto získané souřadnice umocní (matematicky tedy `x^2` a `y^2`) a vypíše výsledek.
 
 Bod je zadaný jako dvojice čísel oddělených čárkou (je nutné podporovat rovněž čísla záporná a čísla desetinná). Správnost vstupu neověřujeme.
 
