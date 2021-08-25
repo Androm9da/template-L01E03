@@ -3,7 +3,7 @@ Vytvořte program `point_input.py`, který získá uživatelem zadaný bod v dvo
 
 Bod je zadaný jako dvojice čísel oddělených čárkou (je nutné podporovat rovněž čísla záporná a čísla desetinná). Správnost vstupu neověřujeme.
 
-K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích!
+Pozor výstup programu je testován automaticky, proto dodržujte přesný formát výstupu a vstupu! K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích.
 
 ## Příklad výstupu
 ```
