@@ -29,3 +29,10 @@ x^2: 1.522756, y^2: 0.0
 Please enter an point where x and y coordinates are separated by comma (i.e. 20,-10.23): -12.324,-12313
 x^2: 151.880976, y^2: 151609969.0
 ```
+
+## Lokální testování
+Funkčnost řešení ověříte následujícím příkazem:
+
+```bash
+pytest tests.py
+```
