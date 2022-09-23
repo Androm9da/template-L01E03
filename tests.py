@@ -16,5 +16,5 @@ def test_output(script_runner, input_, output):
     ret = script_runner.run("point_input.py", stdin=io.StringIO(input_))
 
     assert ret.success
-    assert f"{output}\n" in ret.stdout
+    assert output in ret.stdout
     assert ret.stderr == ""
